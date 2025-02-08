@@ -73,7 +73,7 @@ To set up the project locally, follow these steps:
    - After the backup is complete, a **Download Backup** button will appear to download the `.tar.gz` backup file.
 
 6. **Preview Collections**:
-   - Once connected, you can select any collection from the dropdown to preview the first 5 documents.
+   - Once connected, you can select any collection from the dropdown to preview 
 
 
 
