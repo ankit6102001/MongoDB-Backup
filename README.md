@@ -36,6 +36,24 @@ To set up the project locally, follow these steps:
     pip install -r requirements.txt
 
 
+
+## MongoDB Connection Formats
+
+**Localhost Connection (For local MongoDB instances)**:
+
+     mongodb://localhost:27017/database_name
+
+**SRV Connection (For MongoDB Atlas)**:
+
+     mongodb+srv://username:password@clustername.mongodb.net/database_name?retryWrites=true&w=majority
+
+**Manual Connection (For custom host & port setup)**:
+
+    mongodb://username:password@host:port/database_name
+
+
+
+
 ## Usage
 
 1. After installing the dependencies, run the Streamlit app:
